@@ -1,0 +1,32 @@
+[
+  {
+    "endTime": "2022-03-10 14:44",
+    "artistName": "Unknown Artist",
+    "trackName": "Unknown Track",
+    "msPlayed": 14670
+  },
+  {
+    "endTime": "2022-07-24 14:15",
+    "artistName": "Sabaton",
+    "trackName": "Coat of Arms",
+    "msPlayed": 62942
+  },
+  {
+    "endTime": "2022-07-24 14:19",
+    "artistName": "Sabaton",
+    "trackName": "Night Witches",
+    "msPlayed": 10179
+  },
+  {
+    "endTime": "2022-07-24 14:19",
+    "artistName": "Sabaton",
+    "trackName": "Bismarck",
+    "msPlayed": 7726
+  },
+  {
+    "endTime": "2022-07-24 14:19",
+    "artistName": "Sabaton",
+    "trackName": "Primo Victoria",
+    "msPlayed": 2121
+  }
+]
